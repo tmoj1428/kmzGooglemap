@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2' xmlns:kml='http://www.opengis.net/kml/2.2' xmlns:atom='http://www.w3.org/2005/Atom'>
+<Placemark>
+<name>home</name>
+<description>This is the path between the 2 points</description>
+<LookAt>
+<longitude>51.389</longitude><latitude>35.6892</latitude></LookAt><Point><coordinates>51.389,35.6892</coordinates></Point></Placemark>
+</kml>
